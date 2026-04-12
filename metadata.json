@@ -1,0 +1,5 @@
+{
+  "name": "EduLib",
+  "description": "A school library borrowing system with client-server architecture.",
+  "requestFramePermissions": []
+}
